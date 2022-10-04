@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NoUTIUUA4CMtTiTOhcg7ipd6OZBibP0jGSKG7nkSnSYlA1C4H5vPSe35l2dhwLc47jcu+xmpBoTC2BRGXq5cVw==",
+  "success": true,
+  "projectFilePath": "C:\\Azure Bootcamp\\Azure Functions\\OpenAI\\OpenAI\\OpenAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

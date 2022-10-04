@@ -1,0 +1,17 @@
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.csproj.AssemblyReference.cache
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.AssemblyInfoInputs.cache
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.AssemblyInfo.cs
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.csproj.CoreCompileInputs.cache
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\bin\Debug\net6.0\OpenAI.exe
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\bin\Debug\net6.0\OpenAI.deps.json
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\bin\Debug\net6.0\OpenAI.runtimeconfig.json
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\bin\Debug\net6.0\OpenAI.dll
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\bin\Debug\net6.0\OpenAI.pdb
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.csproj.CopyComplete
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.dll
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\refint\OpenAI.dll
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.pdb
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\OpenAI.genruntimeconfig.cache
+C:\Azure Bootcamp\Azure Functions\OpenAI\OpenAI\obj\Debug\net6.0\ref\OpenAI.dll
